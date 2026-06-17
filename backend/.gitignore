@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# QR Codes
+backend/storage/qr/*.png
+
+# MongoDB local files
+data/
+
+# OS
+.DS_Store
+Thumbs.db
